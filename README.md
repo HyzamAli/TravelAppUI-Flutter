@@ -1,4 +1,4 @@
-# project2
+# Travel App UI
 
 A new Flutter application.
 
